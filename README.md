@@ -1,4 +1,9 @@
-### Hi there 👋
+## 와 셍ㄴ즈!
+
+저는 자바스크립트를 좋아합ㅂ니다.  
+
+`깃허 통계`  
+> [![GitHub stats](https://github-readme-stats.vercel.app/api?username=chabyik&bg_color=10,0079e3,00b515&text_color=ffffff&title_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **chabyik/chabyik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
