@@ -2,7 +2,7 @@
 
 저는 자바스크립트를 좋아합ㅂ니다.  
 
-`깃허 통계`  
+`깃허브 통계`  
 > [![GitHub stats](https://github-readme-stats.vercel.app/api?username=chabyik&bg_color=10,0079e3,00b515&text_color=ffffff&title_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
