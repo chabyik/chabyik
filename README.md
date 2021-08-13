@@ -1,4 +1,4 @@
-자바스크립트를 좋아하는 학생 개발자입니다.  
+자바스크립트를 주로 사용하는 차빅입니다.  
 
 ### Github stats  
 > [![GitHub stats](https://github-readme-stats.vercel.app/api?username=chabyik&bg_color=10,0079e3,00b515&text_color=ffffff&title_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)  
