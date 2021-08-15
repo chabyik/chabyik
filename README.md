@@ -1,7 +1,7 @@
 자바스크립트를 주로 사용하는 차빅입니다.  
 
 ### Github stats  
-> [![GitHub stats](https://github-readme-stats.vercel.app/api?username=chabyik&bg_color=10,84fab0,8fd3f4&text_color=ffffff&title_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)  
+> [![GitHub stats](https://github-readme-stats.vercel.app/api?username=chabyik&bg_color=10,667eea,764ba2&text_color=ffffff&title_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)  
 
 ### About  
 > Email | <chabyik@gmail.com>  
