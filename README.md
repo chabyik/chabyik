@@ -1,14 +1,9 @@
-자바스크립트를 주로 사용하는 차빅입니다.  
-
 ### Github stats  
 > [![GitHub stats](https://github-readme-stats.vercel.app/api?username=chabyik&bg_color=10,667eea,764ba2&text_color=ffffff&title_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)  
 
 ### About  
 > Email | <chabyik@gmail.com>  
 > Web | <http://chabyik.xyz>
-
-와 샌ㄴ즈
-
 <!--
 **chabyik/chabyik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
